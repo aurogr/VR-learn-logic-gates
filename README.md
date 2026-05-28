@@ -23,11 +23,8 @@ In the first three levels, the logic gate is fixed to the test bench. The user e
 
 After completing or discovering the main gates, the user unlocks a free-form sandbox. In this mode, users can manually select different logic gates from inventory buckets and swap them onto the test bench to dynamically test and contrast their behaviors.
 
-[![Watch the VR Logic Gates Demo](https://raw.githubusercontent.com/aurogr/VR-learn-logic-gates/main/demo.png)](https://youtu.be/ed24ZFmy4Bk)
+<a href="https://youtu.be/ed24ZFmy4Bk" target="_blank">
+  <img src="https://img.youtube.com/vi/ed24ZFmy4Bk/hqdefault.jpg" />
+</a>
 
-*Click the image above to watch the full 3-minute high-quality video on YouTube.*
-
-<video src="demo.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-
+<p><em>Click the image above to watch the full demo video on YouTube.</em></p>
