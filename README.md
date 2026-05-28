@@ -3,10 +3,10 @@ An interactive, educational Virtual Reality (VR) application made with Unity for
 
 This project was developed from scratch as part of the 'Virtual Reality' course, part of the Master's Degree in Computer Graphics, Games and Virtual Reality at Rey Juan Carlos University (URJC).
 
-
+<p align="center">
 <img src="demo.png" width="400px"></img>
+</p>
 
-# Project overview
 The main objective of this application is to translate abstract digital electronics concepts into a tangible, highly interactive 3D environment, to make it easy for kids to learn this concepts. Users interact with a control console featuring input buttons and dynamic feedback systems to visualize how electrical currents propagate through different logic circuits.
 
 ### Key features for an optimal user experience
@@ -27,6 +27,7 @@ In the first three levels, the logic gate is fixed to the test bench. The user e
 
 After completing or discovering the main gates, the user unlocks a free-form sandbox. In this mode, users can manually select different logic gates from inventory buckets and swap them onto the test bench to dynamically test and contrast their behaviors.
 
-
-<video src="https://raw.githubusercontent.com/aurogr/VR-learn-logic-gates/main/demo.mp4" width="100%" controls></video>
+<video src="demo.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
